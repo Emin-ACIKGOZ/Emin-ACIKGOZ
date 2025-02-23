@@ -1,4 +1,4 @@
-- >_ I’m @Emin-ACIKGOZ! I am a Computer Science student from New York.
+- \>_ I’m @Emin-ACIKGOZ! I am a Computer Science student from New York.
 - I’m interested in Back-End development, Data Science, and Free Open Source Software.
 - I’m currently learning about Spring Boot, Docker, and RESTful APIs.
 - I’m looking to contribute Open Source projects.
