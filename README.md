@@ -1,8 +1,8 @@
-- \>_ I’m @Emin-ACIKGOZ! I am a Computer Science student from New York.
-- I’m interested in Back-End development, Data Science, and Free Open Source Software.
-- I’m currently learning about Spring Boot, Docker, and RESTful APIs.
-- I’m looking to contribute Open Source projects.
-- You can reach me on my email.
+- \>_ I’m @Emin-ACIKGOZ! I am a backend developer from New York.
+- I’m interested in Back-End development, Devops, and Free Open Source Software.
+- I’m currently focused on deepening my knowledge of the backend.
+- I’d be glad to contribute Open Source projects.
+- You can reach me on my email or LinkedIn.
 
 <!---
 Emin-ACIKGOZ/Emin-ACIKGOZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
