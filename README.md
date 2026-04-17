@@ -1,10 +1,26 @@
-- \>_ I’m @Emin-ACIKGOZ! I am a backend developer from New York.
-- I’m interested in Back-End development, Devops, and Free Open Source Software.
-- I’m currently focused on deepening my knowledge of the backend.
-- I’d be glad to contribute Open Source projects.
-- You can reach me on my email or LinkedIn.
+# Emin Salih Açıkgöz
 
-<!---
-Emin-ACIKGOZ/Emin-ACIKGOZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build Go backends optimized for correctness and performance at scale.
+
+## Featured Projects
+
+- **go-skrub** — Validation framework. 48% faster & less memory than go-validator-v10
+- **go-hal** — Zero-reflection HAL serialization for high-throughput systems
+- **nomledger** — Financial validation engine (IFRS-aligned invariants)
+- **scbake** — Atomic project scaffolder with LIFO transaction rollback
+
+## Skills
+
+- **Backend:** Go, FastAPI, Python, Spring Boot, Java, Kotlin
+- **Infrastructure:** Docker, Kubernetes, PostgreSQL, ClickHouse, Redis
+- **DevOps:** Bash, Linux, Makefile, Git, Nginx, CI/CD
+
+## Currently
+
+Seeking backend roles (Go), consulting engagements, or founding partnerships.
+
+## Contact
+
+- [GitHub](https://github.com/Emin-ACIKGOZ)
+- [LinkedIn](https://www.linkedin.com/in/emin-salih-a-75703425b/)
+- Email: eminsalihacikgoz@gmail.com
