@@ -1,25 +1,45 @@
-# Emin Salih Açıkgöz
+### 👋 I build deterministic infrastructure for engineers who can't afford surprises.
 
-I build Go backends optimized for correctness and performance at scale.
+**Go · Rust · Systems Engineering · Developer Tooling**
 
-## Featured Projects
+Libraries that enforce correctness at the type level. Tools that scaffold projects atomically. Systems where failure isn't an option.
 
-- **go-skrub** — Validation framework. 48% faster & less memory than go-validator-v10
-- **go-hal** — Zero-reflection HAL serialization for high-throughput systems
-- **nomledger** — Financial validation engine (IFRS-aligned invariants)
-- **scbake** — Atomic project scaffolder with LIFO transaction rollback
+---
 
-## Skills
+## 🔥 Featured Projects
 
-- **Backend:** Go, FastAPI, Python, Spring Boot, Java, Kotlin
-- **Infrastructure:** Docker, Kubernetes, PostgreSQL, ClickHouse, Redis
-- **DevOps:** Bash, Linux, Makefile, Git, Nginx, CI/CD
+| Project | Description |
+|---------|------------|
+| [**scbake**](https://github.com/Emin-ACIKGOZ/scbake) | Atomic project scaffolder with LIFO rollback — `scbake bake` then `scbake abort` if anything fails. |
+| [**go-skrub**](https://github.com/Emin-ACIKGOZ/go-skrub) | Zero-panic, composable validation. 48% faster than go-validator-v10. |
+| [**go-hal**](https://github.com/Emin-ACIKGOZ/go-hal) | Zero-reflection HAL serialization for high-throughput systems. |
+| [**nomledger**](https://github.com/Emin-ACIKGOZ/nomledger) | Financial validation engine with IFRS-aligned invariants. |
+| **rokrab** | _[private]_ — FSM-grounded autonomous engineering agent. |
+| **ultra_hat** | _[private]_ — Offline, deterministic security orchestration framework. |
 
-## Currently
+## 🛠️ Skills
 
-Seeking backend roles (Go), consulting engagements, or founding partnerships.
+| Area | Technologies |
+|------|-------------|
+| **Languages** | Go, Rust, Python, Kotlin, Java |
+| **Backend** | FastAPI, Spring Boot, PostgreSQL, ClickHouse, Redis |
+| **Infrastructure** | Docker, Kubernetes, Linux, Nginx, CI/CD |
+| **DevOps** | Bash, Makefile, Git, GitHub Actions |
 
-## Contact
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Emin-ACIKGOZ&show_icons=true&theme=dark&hide=contribs)
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🎯 Currently
+
+Available for Go consulting, security-critical systems work, and founding partnerships.
+
+## 📬 Contact
 
 - [GitHub](https://github.com/Emin-ACIKGOZ)
 - [LinkedIn](https://www.linkedin.com/in/emin-salih-a-75703425b/)
