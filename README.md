@@ -26,10 +26,6 @@ Libraries that enforce correctness at the type level. Tools that scaffold projec
 | **Infrastructure** | Docker, Kubernetes, Linux, Nginx, CI/CD |
 | **DevOps** | Bash, Makefile, Git, GitHub Actions |
 
-## GitHub Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Emin-ACIKGOZ&show_icons=true&theme=dark&hide_rank=true&hide=contribs)
-
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
