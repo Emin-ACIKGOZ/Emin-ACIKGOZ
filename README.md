@@ -26,11 +26,6 @@ Libraries that enforce correctness at the type level. Tools that scaffold projec
 | **Infrastructure** | Docker, Kubernetes, Linux, Nginx, CI/CD |
 | **DevOps** | Bash, Makefile, Git, GitHub Actions |
 
-## Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## Currently
 
 Available for Go consulting, security-critical systems work, and founding partnerships.
