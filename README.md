@@ -1,8 +1,6 @@
-### I build deterministic infrastructure for engineers who can't afford surprises.
+### I write software for developer tooling, transaction safety, and high-performance backend systems.
 
-**Go / Rust / Systems Engineering / Developer Tooling**
-
-Libraries that enforce correctness at the type level. Tools that scaffold projects atomically. Systems where failure isn't an option.
+Computer Engineering Graduate @ Ankara Yıldırım Beyazıt University (AYBÜ) (High Honors, 3.65 GPA)
 
 ---
 
@@ -10,28 +8,27 @@ Libraries that enforce correctness at the type level. Tools that scaffold projec
 
 | Project | Description |
 |---------|------------|
-| [**scbake**](https://github.com/Emin-ACIKGOZ/scbake) | Atomic project scaffolder with LIFO rollback |
-| [**go-skrub**](https://github.com/Emin-ACIKGOZ/go-skrub) | Zero-panic, composable validation. 48% faster than go-validator-v10 |
-| [**go-hal**](https://github.com/Emin-ACIKGOZ/go-hal) | Zero-reflection HAL serialization for high-throughput systems |
-| [**nomledger**](https://github.com/Emin-ACIKGOZ/nomledger) | Financial validation engine with IFRS-aligned invariants |
-| **rokrab** | _[private]_ FSM-grounded autonomous engineering agent |
-| **ultra_hat** | _[private]_ Offline, deterministic security orchestration framework |
+| [**scbake**](https://github.com/Emin-ACIKGOZ/scbake) | A Go CLI that generates project templates from a config file, with automatic rollback if file creation fails |
+| [**go-skrub**](https://github.com/Emin-ACIKGOZ/go-skrub) | A Go library for struct and field validation using tags or builder functions without causing panics |
+| [**go-hal**](https://github.com/Emin-ACIKGOZ/go-hal) | A Go library for formatting HAL JSON API responses using pre-registered types instead of reflection |
+| [**nomledger**](https://github.com/Emin-ACIKGOZ/nomledger) | A Go library that validates double-entry accounting rules (debits equal credits) on in-memory transactions |
+| **rokrab** | An experimental Rust tool that runs code editing tasks through a 5-step state machine with syntax checks * |
+| **ultra_hat** | An experimental security scanner in Go that combines code static analysis with Rust-based fuzzing * |
 
-## Skills
+*\* Note: rokrab and ultra_hat are works in progress and are currently under active development before public release.*
 
-| Area | Technologies |
-|------|-------------|
-| **Languages** | Go, Rust, Python, Kotlin, Java |
-| **Backend** | FastAPI, Spring Boot, PostgreSQL, ClickHouse, Redis |
-| **Infrastructure** | Docker, Kubernetes, Linux, Nginx, CI/CD |
-| **DevOps** | Bash, Makefile, Git, GitHub Actions |
+---
 
-## Currently
+## Tech Stack & Environment
 
-Available for Go consulting, security-critical systems work, and founding partnerships.
+*   **Languages:** Java, Go, Rust, Python, TypeScript
+*   **Tools & Infrastructure:** Docker, Linux, PostgreSQL, Git, GitHub Actions, Makefile
 
-## Contact
+---
 
-- [GitHub](https://github.com/Emin-ACIKGOZ)
-- [LinkedIn](https://www.linkedin.com/in/emin-salih-a-75703425b/)
-- Email: eminsalihacikgoz@gmail.com
+## Get in Touch
+
+I am open to full-time software engineering roles, backend positions, and technical collaborations. If you have any questions about my work or would like to discuss opportunities, feel free to reach out via email or LinkedIn:
+
+*   **Email:** [eminsalihacikgoz@gmail.com](mailto:eminsalihacikgoz@gmail.com)
+*   **LinkedIn:** [Emin Salih Açıkgöz](https://www.linkedin.com/in/emin-salih-a-75703425b/)
