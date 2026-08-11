@@ -1,6 +1,6 @@
-### I write software for developer tooling, transaction safety, and high-performance backend systems.
+### I write software for developer tooling and high-performance backend systems.
 
-Computer Engineering Graduate @ Ankara Yıldırım Beyazıt University (AYBÜ) (High Honors, 3.65 GPA)
+Computer Engineering Graduate from Ankara Yıldırım Beyazıt University (AYBÜ) with High Honors (3.65 GPA).
 
 ---
 
