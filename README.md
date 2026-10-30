@@ -10,7 +10,7 @@ Computer Engineering Graduate from Ankara Yıldırım Beyazıt University (AYBÜ
 |---------|------------|
 | [**scbake**](https://github.com/Emin-ACIKGOZ/scbake) | A Go CLI that generates project templates from a config file, with automatic rollback if file creation fails |
 | [**go-skrub**](https://github.com/Emin-ACIKGOZ/go-skrub) | A Go library for struct and field validation using tags or builder functions without causing panics |
-| [**go-hal**](https://github.com/Emin-ACIKGOZ/go-hal) | A Go library for formatting HAL JSON API responses using pre-registered types instead of reflection |
+| [**go-hal**](https://github.com/Emin-ACIKGOZ/go-hal) | A server-side HAL implementation for Go with typed link generators, precomputed links, CURIEs, and opt-in strict validation |
 | [**nomledger**](https://github.com/Emin-ACIKGOZ/nomledger) | A Go library that validates double-entry accounting rules (debits equal credits) on in-memory transactions |
 | **rokrab** | An experimental Rust tool that runs code editing tasks through a 5-step state machine with syntax checks * |
 | **ultra_hat** | An experimental security scanner in Go that combines code static analysis with Rust-based fuzzing * |
