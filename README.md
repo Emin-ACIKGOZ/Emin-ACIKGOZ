@@ -8,7 +8,7 @@ Computer Engineering Graduate from Ankara Yıldırım Beyazıt University (AYBÜ
 
 | Project | Description |
 |---------|------------|
-| [**scbake**](https://github.com/Emin-ACIKGOZ/scbake) | A Go CLI that generates project templates from a config file, with automatic rollback if file creation fails |
+| [**scbake**](https://github.com/Emin-ACIKGOZ/scbake) | A Go CLI that scaffolds projects from a config file with rollback on task failure |
 | [**go-skrub**](https://github.com/Emin-ACIKGOZ/go-skrub) | A Go library for struct and field validation using tags or builder functions without causing panics |
 | [**go-hal**](https://github.com/Emin-ACIKGOZ/go-hal) | A server-side HAL implementation for Go with typed link generators, precomputed links, CURIEs, and opt-in strict validation |
 | [**nomledger**](https://github.com/Emin-ACIKGOZ/nomledger) | A Go library that validates double-entry accounting rules (debits equal credits) on in-memory transactions |
