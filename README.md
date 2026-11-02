@@ -15,7 +15,7 @@ Computer Engineering Graduate from Ankara Yıldırım Beyazıt University (AYBÜ
 | **rokrab** | An experimental Rust tool that runs code editing tasks through a 5-step state machine with syntax checks * |
 | **ultra_hat** | A self-hosted API authorization proof engine in Go: deterministic BOLA/BFLA/BOPLA checks with replay-gated, offline-verifiable evidence and SARIF/JSON export * |
 
-*\* Note: rokrab and ultra_hat are works in progress. ultra_hat is currently private and pre-pilot; its proof pack is reproducible, but independent review is pending.*
+*\* Note: rokrab and ultra_hat are works in progress. ultra_hat is currently private and pre-pilot; independent review is pending.*
 
 ---
 
