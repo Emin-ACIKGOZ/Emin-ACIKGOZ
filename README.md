@@ -13,9 +13,9 @@ Computer Engineering Graduate from Ankara Yıldırım Beyazıt University (AYBÜ
 | [**go-hal**](https://github.com/Emin-ACIKGOZ/go-hal) | A server-side HAL implementation for Go with typed link generators, precomputed links, CURIEs, and opt-in strict validation |
 | [**nomledger**](https://github.com/Emin-ACIKGOZ/nomledger) | A Go library that validates double-entry accounting rules (debits equal credits) on in-memory transactions |
 | **rokrab** | An experimental Rust tool that runs code editing tasks through a 5-step state machine with syntax checks * |
-| **ultra_hat** | An experimental security scanner in Go that combines code static analysis with Rust-based fuzzing * |
+| **ultra_hat** | A self-hosted API authorization proof engine in Go: deterministic BOLA/BFLA/BOPLA checks with replay-gated, offline-verifiable evidence and SARIF/JSON export * |
 
-*\* Note: rokrab and ultra_hat are works in progress and are currently under active development before public release.*
+*\* Note: rokrab and ultra_hat are works in progress. ultra_hat is currently private and pre-pilot; its proof pack is reproducible, but independent review is pending.*
 
 ---
 
